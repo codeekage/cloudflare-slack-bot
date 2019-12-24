@@ -1,0 +1,1 @@
+export const slackWebhookUrl = 'https://hooks.slack.com/services/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'

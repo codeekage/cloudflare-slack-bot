@@ -1,0 +1,8 @@
+name = "slack-bot"
+type = "webpack"
+account_id = "5077f0284c36c7497680aca4a1822ef0"
+workers_dev = true
+
+[env.production]
+route = "sustaindevx.com/*"
+zone_id = "74e1fc38fd1dc087e7a9df2271bc113b"
